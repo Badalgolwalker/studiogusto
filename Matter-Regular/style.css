@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Matter';
+    src: local('Matter Regular'), local('Matter-Regular'),
+        url('Matter-Regular.woff2') format('woff2'),
+        url('Matter-Regular.woff') format('woff'),
+        url('Matter-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
